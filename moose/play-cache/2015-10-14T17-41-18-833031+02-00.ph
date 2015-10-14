@@ -1,0 +1,1 @@
+a := #numberOfMethods.MooseModel root first allModelClasses first perform: a
