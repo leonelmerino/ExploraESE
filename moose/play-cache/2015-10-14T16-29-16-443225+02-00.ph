@@ -1,0 +1,1 @@
+v := RTView new.els := RTEllipse new elementsOn: MooseModel root.v addAll: els.RTGridLayout on: els.els @ RTDraggable.els @ RTPopup."els @ RTLabelled".v @ RTDraggableView.v 
